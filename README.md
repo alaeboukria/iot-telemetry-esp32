@@ -1,7 +1,7 @@
 # 📡 Surveillance IoT & Télémétrie (ESP32)
 
 ## 🎯 Aperçu en direct
-**🚀 Testez la simulation interactive du projet ici :** [Insère ton lien Wokwi ici, ex: https://wokwi.com/projects/xxxx]
+**🚀 Testez la simulation interactive du projet ici :** [https://wokwi.com/projects/462071166971794433]
 
 ## 📝 Description du projet
 Mise en œuvre d'un système embarqué basé sur un microcontrôleur **ESP32** permettant la remontée de données de télémétrie. Le système lit les données d'un capteur de température et d'humidité (DHT22) et déclenche des alertes configurées.
